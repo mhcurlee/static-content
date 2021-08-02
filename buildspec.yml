@@ -9,6 +9,7 @@ phases:
  build:
    commands:
      - aws s3 sync --acl public-read . "s3://mcurlee.com"
+     - aws s3 sync --acl public-read . "s3://www.mcurlee.com"
  post_build:
    commands:
      - echo "post_build step";
