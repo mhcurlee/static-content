@@ -12,10 +12,15 @@ h1 {
 hr {
   color: #CDC9C3;
   width: 30%;
-  
+  font-family: Helvetica;
+
 }
 
 p {
   width:  40%;
+  font-family: Helvetica;
+}
+
+ul {
   font-family: Helvetica;
 }
