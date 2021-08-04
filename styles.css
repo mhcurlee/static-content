@@ -8,3 +8,14 @@ h1 {
  font-family: Helvetica;
 
 }
+
+hr {
+  color: #CDC9C3;
+  width: 30%;
+  
+}
+
+p {
+  width:  40%;
+  font-family: Helvetica;
+}
