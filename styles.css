@@ -1,23 +1,23 @@
 body {
   background-color: #D9E4DD;
-
 }
 
 h1 {
- color: #555555;
- font-family: Helvetica;
-
+  color: #555555;
+  font-family: Helvetica;
 }
 
 hr {
+  border: none;
+  border-top: 3px double #333;
   color: #CDC9C3;
-  width: 30%;
-  font-family: Helvetica;
-
+  overflow: visible;
+  text-align: center;
+  height: 5px;
 }
 
 p {
-  width:  40%;
+  width: 40%;
   font-family: Helvetica;
 }
 
